@@ -225,7 +225,7 @@ button {
     background-color: #000000; /* Set a background color */
     color: white; /* Set a text color */
     cursor: pointer; /* Add a mouse pointer on hover */
-    padding: 15px; /* Add some padding */
+    padding: 10px; /* Add some padding */
     border-radius: 10px; /* Add rounded corners */
     font-size: 18px; /* Increase font size */
 }
